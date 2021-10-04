@@ -7,7 +7,7 @@
         $ ./gradlew genererTheorie
         $ ./gradlew genererAtelier
 
-## Tester la validation
+## Tester l'outil de validation
 
         $ cd generer_module3_3
         $ ./gradlew testerTutoriel
