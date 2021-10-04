@@ -1,0 +1,17 @@
+# Gradle
+.gradle
+build
+bin
+*.jar
+!gradle-wrapper.jar
+
+# vim
+*.swp
+
+# db
+*.db
+
+# Eclipse
+.settings
+.classpath
+.project

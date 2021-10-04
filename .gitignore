@@ -1,0 +1,11 @@
+# vim
+*.swp
+
+# emacs
+*~
+
+# Eclipse
+.settings
+.classpath
+.project
+.metadata
